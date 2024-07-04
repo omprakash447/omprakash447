@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om prakash lenka</h1>
 <h3 align="center">A passionate frontend developer from India and also a problem solver..</h3>
 
- <img src="https://cdn-images-1.medium.com/max/1200/1*mr7WXw8tgpMhqugKP2WhrA.gif" alt="" style="height: 400px; width: 400px; align-items: center;">
+ <img src="https://cdn-images-1.medium.com/max/1200/1*mr7WXw8tgpMhqugKP2WhrA.gif" alt="" style="height: 400px; width: 400px; align-items: center; border-radius=20px">
     <ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omprakash447&label=Profile%20views&color=0e75b6&style=flat" alt="omprakash447" /> </p>
