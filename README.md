@@ -30,9 +30,14 @@
         </tr>
     </thead>
     <tbody>
+       <tr style="background-color: #f2f2f2;">
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;">ChatGpt</td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="https://resonant-cupcake-91a443.netlify.app/">Live</a></td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="https://github.com/omprakash447/Chatgpt-by-React.git">Click</a></td>
+        </tr>
         <tr style="background-color: #f2f2f2;">
             <td style="border: 1px solid #ddd; padding: 8px; text-align: left;">MyProtFolio</td>
-            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;">Not Live</td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="https://66b9280d04f2f5b2a7435aef--funny-rolypoly-e26991.netlify.app/">Live</a></td>
             <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="https://github.com/omprakash447/MyPortFolioByReact.git">Click</a></td>
         </tr>
         <tr style="background-color: #f2f2f2;">
