@@ -36,6 +36,11 @@
             <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="https://github.com/omprakash447/Chatgpt-by-React.git">Click</a></td>
         </tr>
        <tr style="background-color: #f2f2f2;">
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;">OnlineEventManagement</td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="https://kaleidoscopic-salmiakki-b94d40.netlify.app/">Live</a></td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="https://github.com/omprakash447/EventManageMent-React-.git">Click</a></td>
+        </tr>
+       <tr style="background-color: #f2f2f2;">
             <td style="border: 1px solid #ddd; padding: 8px; text-align: left;">ORG-Ecart-App</td>
             <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="https://clever-snickerdoodle-09a2b4.netlify.app/">Live</a></td>
             <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="https://github.com/omprakash447/ORG-Ecart-App-React.git">Click</a></td>
