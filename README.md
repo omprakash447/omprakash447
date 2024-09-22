@@ -18,6 +18,31 @@
 
 - ⚡ Fun fact **Never bored , when i learn programming**
 
+Betterly Know About Me And My Skills...
+const   OM PRAKASH = {
+    pronouns: "He" | "Him",
+    location: "Bhubaneswar Odisha India",
+    code: ["JavaScript" , "HTML/CSS", "Python", "Java" , "C++" , "JAVA" , "SQL",  ]
+    askMeAbout: [ "Web Development" , "Tech", "APIs", "Problem Solving" ],
+    technologies: {
+        frontEnd: {
+            js: ["JSON", "React", "AJAX"],
+            css: ["Tailwind" , "SASS", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node", "Express" , "Firebase" ],
+        },
+        devOps: ["AWS","Google Cloud"],
+        databases: ["MySql", "mongodb", "MsSql","Firebase"],
+        technologies: ["Postman", "Firebase"]
+    },
+    softSkills: ["Communication skill", "Management Skills", "Mentorship", "Responsive Design",
+                 "Infrastructure Management", "System Design", "Project Management", "Autonomy & Proactivity",
+                 "Problem Solving", "Community Management"],
+    currentFocus: ["Representing my self as a Good Devloper And a Softwere Engineer"],
+    Om's Moral : "Aways Listen To Your Heart , It is in Your Left Side , But It Is Always Right..."
+};
+
 
 
 
