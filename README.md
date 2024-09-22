@@ -47,6 +47,9 @@ const OM_PRAKASH = {
     OmMoral: "Always listen to your heart. It’s on your left side, but it’s always right!"
 };
 
+```
+
+
 
 
 
