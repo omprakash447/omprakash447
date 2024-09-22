@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omprakash447" alt="omprakash447" /></a> </p>
 
-- 🔭 I’m currently working on **Hospital management system (web Dev)**
+- 🔭 I’m currently working on **A Fully Functionality TrendyFy App (FULL STACK)**
   
-- 🌱 I’m currently learning **ReactJs with jQuery**
+- 🌱 I’m currently learning **BACKEND - Nodejs , Expressjs , MongoDB , Nextjs**
 
-- 💬 Ask me about **Java script , python , MySql , Jquery and react**
+- 💬 Ask me about **Frontend , Backend , Problem Solving(Ayyary , String , Linkedlist)**
 
 - 📫 How to reach me **omp865182@gmail.com**
 
