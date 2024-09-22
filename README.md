@@ -18,30 +18,35 @@
 
 - ⚡ Fun fact **Never bored , when i learn programming**
 
-Betterly Know About Me And My Skills...
-const   OM PRAKASH = {
+<h1 align="center">About OM PRAKASH</h1>
+
+```javascript
+const OM_PRAKASH = {
     pronouns: "He" | "Him",
-    location: "Bhubaneswar Odisha India",
-    code: ["JavaScript" , "HTML/CSS", "Python", "Java" , "C++" , "JAVA" , "SQL",  ]
-    askMeAbout: [ "Web Development" , "Tech", "APIs", "Problem Solving" ],
+    location: "Bhubaneswar, Odisha, India",
+    code: ["JavaScript", "HTML/CSS", "Python", "Java", "C++", "SQL"],
+    askMeAbout: ["Web Development", "Tech", "APIs", "Problem Solving"],
     technologies: {
         frontEnd: {
             js: ["JSON", "React", "AJAX"],
-            css: ["Tailwind" , "SASS", "Bootstrap"]
+            css: ["Tailwind", "SASS", "Bootstrap"]
         },
         backEnd: {
-            js: ["Node", "Express" , "Firebase" ],
+            js: ["Node", "Express", "Firebase"]
         },
-        devOps: ["AWS","Google Cloud"],
-        databases: ["MySql", "mongodb", "MsSql","Firebase"],
-        technologies: ["Postman", "Firebase"]
+        devOps: ["AWS", "Google Cloud"],
+        databases: ["MySql", "MongoDB", "MsSql", "Firebase"],
+        tools: ["Postman", "Firebase"]
     },
-    softSkills: ["Communication skill", "Management Skills", "Mentorship", "Responsive Design",
-                 "Infrastructure Management", "System Design", "Project Management", "Autonomy & Proactivity",
-                 "Problem Solving", "Community Management"],
-    currentFocus: ["Representing my self as a Good Devloper And a Softwere Engineer"],
-    Om's Moral : "Aways Listen To Your Heart , It is in Your Left Side , But It Is Always Right..."
+    softSkills: [
+        "Communication skill", "Management Skills", "Mentorship", "Responsive Design",
+        "Infrastructure Management", "System Design", "Project Management", 
+        "Autonomy & Proactivity", "Problem Solving", "Community Management"
+    ],
+    currentFocus: "Representing myself as a good developer and a software engineer",
+    OmMoral: "Always listen to your heart. It’s on your left side, but it’s always right!"
 };
+
 
 
 
