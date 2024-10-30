@@ -62,6 +62,21 @@ const OM_PRAKASH = {
         </tr>
     </thead>
     <tbody>
+        <tr style="background-color: #f2f2f2;">
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;">AtherAi</td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="#">Not Live</a></td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="https://github.com/omprakash447/Fullstack-AtherAi-.git">Click</a></td>
+        </tr>
+        <tr style="background-color: #f2f2f2;">
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;">WheatherApp(backend)</td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="#">Not Live</a></td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="https://github.com/omprakash447/Backend-WheatherApplication-.git">Click</a></td>
+        </tr>
+        <tr style="background-color: #f2f2f2;">
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;">IMDB(API)</td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="#">Not Live</a></td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="https://github.com/omprakash447/IMBD-Api-Backend.git">Click</a></td>
+        </tr>
        <tr style="background-color: #f2f2f2;">
             <td style="border: 1px solid #ddd; padding: 8px; text-align: left;">Backend(ApiFetching)</td>
             <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="#">Not Live</a></td>
