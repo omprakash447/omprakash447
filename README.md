@@ -52,7 +52,32 @@ const OM_PRAKASH = {
 
 <h1 style="text-align: center; font-family: sans-serif; color: red;">My projects</h1>
 
-<p style="text-align: center; font-size: 30px; font-family: sans-serif;">Nodejs Projects</p>
+
+<p style="text-align: center; font-size: 30px; font-family: sans-serif;">Next-Js Projects</p>
+<table style="width: 100%; border-collapse: collapse; box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);">
+    <thead>
+        <tr style="background-color: #4CAF50; color: white;">
+            <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Name</th>
+            <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Live</th>
+            <th style="border: 1px solid #ddd; padding: 8px; text-align: left;">Code</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="background-color: #f2f2f2;">
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;">Server-Side-Data-Fetch</td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="#">Not Live</a></td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="https://github.com/omprakash447/SSR-data-fetch-NextJs.git">Click</a></td>
+        </tr>
+        <tr style="background-color: #f2f2f2;">
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;">RecipeFinder(Next-Js)</td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="#">Not Live</a></td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="https://github.com/omprakash447/RecipeiFinder-SSR-CSR-FETCH-h.git">Click</a></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<p style="text-align: center; font-size: 30px; font-family: sans-serif;">Mern/Full-Stack Projects</p>
 <table style="width: 100%; border-collapse: collapse; box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);">
     <thead>
         <tr style="background-color: #4CAF50; color: white;">
