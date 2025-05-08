@@ -1,6 +1,6 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&width=435&lines=Hey!+Welcome+to+my+profile.;I'm+Om+Prakash.)](https://git.io/typing-svg)
  
-<h3 align="center">A passionate MERNstack developer from India and also a problem solver..</h3>
+<h3 align="center">A passionate FullStsck developer from India and also a problem solver..</h3>
 
  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt="" style="height: 400px; width: 100vw; align-items: center; border-radius=20px">
     <ul>
@@ -9,7 +9,7 @@
 ## About Me :)
 <br><br>
 <img align="right" alt="Coding" width="200"  src="https://avatars.githubusercontent.com/u/150693046?v=4?s=400">
-🔭 I’m currently working on **A Fully Functional TrendyFy App (FULL STACK)**<br><br>🌱 Currently diving deep into **Backend Development** with **Node.js**, **Express.js**, **MongoDB**, and **Next.js**<br><br>💬 Feel free to ask me about **Frontend**, **Backend**, and **Problem Solving** (Array, String, LinkedList)<br><br>⚡ Fun fact is , I never get bored when learning tech things
+🔭 I’m currently working on **GO for deep backend devlopment (BACKEND DEV)**<br><br>🌱 Currently diving deep into **Backend Development** with **Node.js**, **Express.js**, **MongoDB**, and **Next.js**<br><br>💬 Feel free to ask me about **Frontend**, **Backend**, and **Problem Solving** (Array, String, LinkedList)<br><br>⚡ Fun fact is , I never get bored when learning tech things
 
 <br><br><br><br>
 
@@ -63,6 +63,11 @@ const OM_PRAKASH = {
         </tr>
     </thead>
     <tbody>
+         <tr style="background-color: #f2f2f2;">
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;">OppertuniHub</td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="#">Not Live</a></td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="https://github.com/omprakash447/OppertuniHub.git">Click</a></td>
+        </tr>
         <tr style="background-color: #f2f2f2;">
             <td style="border: 1px solid #ddd; padding: 8px; text-align: left;">Go-Bus</td>
             <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="#">Not Live</a></td>
