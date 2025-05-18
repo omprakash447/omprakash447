@@ -63,6 +63,11 @@ const OM_PRAKASH = {
         </tr>
     </thead>
     <tbody>
+        <tr style="background-color: #f2f2f2;">
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;">Smart Shrink</td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="#">Not Live</a></td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="https://github.com/omprakash447/Smart-Shrink.git">Click</a></td>
+        </tr>
          <tr style="background-color: #f2f2f2;">
             <td style="border: 1px solid #ddd; padding: 8px; text-align: left;">OppertuniHub</td>
             <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="#">Not Live</a></td>
@@ -92,7 +97,7 @@ const OM_PRAKASH = {
 </table>
 
 
-<p style="text-align: center; font-size: 30px; font-family: sans-serif;">Mern/Full-Stack Projects</p>
+<p style="text-align: center; font-size: 30px; font-family: sans-serif;">Full-Stack Projects</p>
 <table style="width: 100%; border-collapse: collapse; box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);">
     <thead>
         <tr style="background-color: #4CAF50; color: white;">
@@ -102,6 +107,11 @@ const OM_PRAKASH = {
         </tr>
     </thead>
     <tbody>
+        <tr style="background-color: #f2f2f2;">
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;">Smart Shrink</td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="#">Not Live</a></td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="https://github.com/omprakash447/Smart-Shrink.git">Click</a></td>
+        </tr>
          <tr style="background-color: #f2f2f2;">
             <td style="border: 1px solid #ddd; padding: 8px; text-align: left;">EHRSS(Emergency Helth-Response-Support-System)</td>
             <td style="border: 1px solid #ddd; padding: 8px; text-align: left;"><a href="#">Not Live</a></td>
